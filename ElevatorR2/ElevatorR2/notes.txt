@@ -1,0 +1,18 @@
+Stuff to do before release:
+///- Set doors to be closed when first starting. Both doors starting open and closing at the start is stupid.
+///- Remove pointless methods like "SomeBackgroundImg_onClick()" that were automatically made.
+///- Clean up the endless torrent of comments that infests ElevatorGUI.
+///- Set logical delays between the doors doing something and the lift moving.
+///- Set logical delays between the interior buttons being pressed and the lift doing stuff.
+///- Sort out database when publishing. It doesn't package the database file with it for some reason.
+///- Change that hideous placeholder lift image.
+///- Move all the images used in elevatorGUI to the project resources, not the specific class resources.
+///- NAME ALL THOSE DAMN PICTUREBOXES
+
+
+
+
+
+/ - Working on it
+// - Half Done
+/// - Complete
